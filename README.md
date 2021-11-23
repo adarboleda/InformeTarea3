@@ -90,7 +90,36 @@ De ser así, identifíquelo
 
 ![image](https://user-images.githubusercontent.com/93734334/142962285-0dc9e3d3-834a-47d0-a34d-e73579105648.png)
 
-59. VIDEO
+* SECCIÓN 6–1 Resistores en paralelo
+
+3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+
+![image](https://user-images.githubusercontent.com/93734334/142962947-a5093c2f-983b-4e27-82a4-be1f904482b3.png)
+
+* SECCIÓN 6–2 Voltaje en un circuito en paralelo
+
+5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+![image](https://user-images.githubusercontent.com/93734334/142963035-d6858046-b432-4122-ae2e-1507d6bfcda2.png)
+
+7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
+interruptor?
+
+![image](https://user-images.githubusercontent.com/93734334/142963091-e555c8fb-5d3e-4772-8e67-45231a4b138c.png)
+
+* SECCIÓN 6–3 Ley de las corrientes de Kirchhoff 
+
+9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
+300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
+
+![image](https://user-images.githubusercontent.com/93734334/142963151-f4f982e3-a607-4d4a-ae26-0fed083945ce.png)
+
+13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor
+de 220 Æ que forma parte de este circuito si la corriente total es de 100 mA?
+
+4. VIDEO
 
 
 5. CONCLUSIONES
