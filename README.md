@@ -31,8 +31,66 @@ Objetivo Específico
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+* SECCIÓN 5–7 Divisores de voltaje
 
-4. VIDEO
+39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a)
+
+![image](https://user-images.githubusercontent.com/93734334/142961546-08ab1a4e-ebfb-4419-91f6-dbff92862f2a.png)
+
+41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
+bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
+
+![image](https://user-images.githubusercontent.com/93734334/142961805-7ad0c410-b4fe-487c-8777-87280a18702c.png)
+
+43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+
+![image](https://user-images.githubusercontent.com/93734334/142961858-0f7d4e32-0562-40a8-9695-80d0eb3b1640.png)
+
+45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
+10 V hasta un máximo de 100 V dentro del 1% con una fuente de 1 a 120 V. El voltaje máximo debe
+ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
+ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
+
+* SECCIÓN 5–8 Potencia en circuitos en serie
+
+47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43
+
+![image](https://user-images.githubusercontent.com/93734334/142961960-c44a2587-4625-4709-9d94-47f044e1ecd8.png)
+
+49. Encuentre RT en la figura 5-89.
+
+![image](https://user-images.githubusercontent.com/93734334/142961994-93cbc60f-097f-4f38-89db-7ba76cf8fc11.png)
+
+* SECCIÓN 5–9 Mediciones de voltaje
+
+51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra
+
+![image](https://user-images.githubusercontent.com/93734334/142962026-e9e67892-6743-40f6-82ab-0bc20f39ddc5.png)
+
+53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+
+![image](https://user-images.githubusercontent.com/93734334/142962069-9a378d07-926b-493d-b717-683f7a972552.png)
+
+* SECCIÓN 5–10 Localización de fallas
+
+55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué
+componentes fallaron.
+
+![image](https://user-images.githubusercontent.com/93734334/142962150-806500a1-c89c-43a0-909c-af280f5d7993.png)
+
+57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
+
+![image](https://user-images.githubusercontent.com/93734334/142962194-cf68224d-b061-404e-9407-b470be3d7d75.png)
+
+![image](https://user-images.githubusercontent.com/93734334/142962219-864252d0-52da-48fc-84b2-e377a314de57.png)
+
+59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2.
+Asimismo, 13.6 kÆ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso?
+De ser así, identifíquelo
+
+![image](https://user-images.githubusercontent.com/93734334/142962285-0dc9e3d3-834a-47d0-a34d-e73579105648.png)
+
+59. VIDEO
 
 
 5. CONCLUSIONES
