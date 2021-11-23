@@ -35,7 +35,7 @@ Objetivo Específico
 
 39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a)
 
-![image](https://user-images.githubusercontent.com/93734334/142961546-08ab1a4e-ebfb-4419-91f6-dbff92862f2a.png)
+![image](https://user-images.githubusercontent.com/93734334/143041687-09952513-2f17-4248-96e4-726eb3d3ded0.png)
 
 41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
 bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
