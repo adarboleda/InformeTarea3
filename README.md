@@ -177,6 +177,11 @@ VD=100-(42.42+42.42+7.57)
 
 ![image](https://user-images.githubusercontent.com/93734334/142962069-9a378d07-926b-493d-b717-683f7a972552.png)
 
+**VA = 14.82V**
+**VB = 12.97V**
+**VC = 12.64V** 
+**VD = 9.34 V**
+
 * SECCIÓN 5–10 Localización de fallas
 
 55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué
