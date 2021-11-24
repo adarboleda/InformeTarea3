@@ -81,6 +81,23 @@ V4R=(4R/15R)90V
 
 ![image](https://user-images.githubusercontent.com/93734334/142961858-0f7d4e32-0562-40a8-9695-80d0eb3b1640.png)
 
+RT=5.6+1+0.56+10                                                                                                                                                                 
+RT=17.16
+
+10V=(5.56/17.16)Vs                                                                                                                                                               
+10V=0.324Vs                                                                                                                                                                       
+Vs=10/0.324                                                                                                                                                                       
+Vs=30.86V                                                                                                                                                                         
+
+V2=(1/17.16)30.86                                                                                                                                                                 
+**V2=1.79V**
+
+V3=(0.56/17.16)30.86                                                                                                                                                             
+**V3=1V**
+
+V4=(10/17.16)30.86                                                                                                                                                               
+**V4=17.98**
+
 45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
 10 V hasta un máximo de 100 V dentro del 1% con una fuente de 1 a 120 V. El voltaje máximo debe
 ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
