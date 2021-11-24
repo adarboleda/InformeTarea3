@@ -125,6 +125,23 @@ PT=(30.86)^2/17.16
 
 ![image](https://user-images.githubusercontent.com/93734334/142961994-93cbc60f-097f-4f38-89db-7ba76cf8fc11.png)
 
+R1=5.6                                                                                                                                                                           
+I=V/R                                                                                                                                                                             
+I=12/5.6                                                                                                                                                                         
+I=2.14
+
+R=V/I                                                                                                                                                                             
+R=4.8/2.14                                                                                                                                                                       
+R2=2.24
+
+21.5=(2.14)^2 x R3                                                                                                                                                               
+R3=21.5/(2.14)^2                                                                                                                                                                 
+R3=4.69 
+
+RT=R1+R2+R3                                                                                                                                                                       
+RT=5.6+2.24+4.69                                                                                                                                                                 
+**RT=12.5 Mohmio**  
+
 * SECCIÓN 5–9 Mediciones de voltaje
 
 51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra
