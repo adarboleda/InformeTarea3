@@ -62,6 +62,21 @@ bajo, y todos los demás resistores son múltiplos de dicho valor como se indica
 
 ![image](https://user-images.githubusercontent.com/93734334/142961805-7ad0c410-b4fe-487c-8777-87280a18702c.png)
 
+RT=R+2R+3R+4R+5R                                                                                                                                                                 
+RT=15R
+
+VR=(R/15R)90V                                                                                                                                                                     
+**VR=6V**
+
+V2R=(2R/15R)90V                                                                                                                                                                   
+**V2R=12V**
+
+V3R=(3R/15R)90V                                                                                                                                                                   
+**V3R=18V**
+
+V4R=(4R/15R)90V                                                                                                                                                                   
+**V4R=20V**
+
 43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
 
 ![image](https://user-images.githubusercontent.com/93734334/142961858-0f7d4e32-0562-40a8-9695-80d0eb3b1640.png)
