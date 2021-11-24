@@ -103,6 +103,10 @@ V4=(10/17.16)30.86
 ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
 ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
 
+* Respuesta
+
+![image](https://user-images.githubusercontent.com/93734334/143163490-61393421-0125-406a-96cf-cf2d6248fe95.png)
+
 * SECCIÓN 5–8 Potencia en circuitos en serie
 
 47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43
