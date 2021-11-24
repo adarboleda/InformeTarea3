@@ -113,6 +113,14 @@ ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
 
 ![image](https://user-images.githubusercontent.com/93734334/142961960-c44a2587-4625-4709-9d94-47f044e1ecd8.png)
 
+Datos ejercicio 43                                                                                                                                                               
+Vs=30.86                                                                                                                                                                         
+RT=17.16
+
+PT=Vs^2/RT                                                                                                                                                                       
+PT=(30.86)^2/17.16                                                                                                                                                               
+**PT=55.49mW**
+
 49. Encuentre RT en la figura 5-89.
 
 ![image](https://user-images.githubusercontent.com/93734334/142961994-93cbc60f-097f-4f38-89db-7ba76cf8fc11.png)
