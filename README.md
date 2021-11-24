@@ -148,6 +148,31 @@ RT=5.6+2.24+4.69
 
 ![image](https://user-images.githubusercontent.com/93734334/142962026-e9e67892-6743-40f6-82ab-0bc20f39ddc5.png)
 
+RT=13.2
+
+V1=(5..6/13.2)100                                                                                                                                                                 
+V1=42.42
+
+V2=(5.6/13.2)100                                                                                                                                                                 
+V2=42.42
+
+V3=(1/13.2)100                                                                                                                                                                   
+V3=7.57
+
+V4=(1/13.2)100                                                                                                                                                                   
+V4=7.57
+
+**VA=100V**
+
+VB=100-42.42                                                                                                                                                                     
+**VB=57.58V**
+
+VC=100-(42.42+42.42)                                                                                                                                                             
+**VC=15.16V**
+
+VD=100-(42.42+42.42+7.57)                                                                                                                                                         
+**VD=7.59V**
+
 53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
 
 ![image](https://user-images.githubusercontent.com/93734334/142962069-9a378d07-926b-493d-b717-683f7a972552.png)
