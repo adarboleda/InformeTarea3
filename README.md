@@ -177,9 +177,9 @@ VD=100-(42.42+42.42+7.57)
 
 ![image](https://user-images.githubusercontent.com/93734334/142962069-9a378d07-926b-493d-b717-683f7a972552.png)
 
-**VA = 14.82V**
-**VB = 12.97V**
-**VC = 12.64V** 
+**VA = 14.82V**                                                                                                                                                                   
+**VB = 12.97V**                                                                                                                                                                   
+**VC = 12.64V**                                                                                                                                                                   
 **VD = 9.34 V**
 
 * SECCIÓN 5–10 Localización de fallas
@@ -188,6 +188,12 @@ VD=100-(42.42+42.42+7.57)
 componentes fallaron.
 
 ![image](https://user-images.githubusercontent.com/93734334/142962150-806500a1-c89c-43a0-909c-af280f5d7993.png)
+
+**Figura a)**                                                                                                                                                                     
+La Ressitencia 4 esta abierta.
+
+**Figura b)**                                                                                                                                                                     
+Existe un corto de A a B
 
 57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
 
