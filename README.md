@@ -214,6 +214,10 @@ Si indica un problema, puesto que existe un corto entre la clavija 4 y el lado s
 
 * SECCIÓN 6–1 Resistores en paralelo
 
+1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+
+![image](https://user-images.githubusercontent.com/93734334/143328389-c128986f-f2a1-4c79-93b0-3ff0a9099f72.png)
+
 3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
 
 ![image](https://user-images.githubusercontent.com/93734334/142962947-a5093c2f-983b-4e27-82a4-be1f904482b3.png)
