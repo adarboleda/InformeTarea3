@@ -226,11 +226,20 @@ Si indica un problema, puesto que existe un corto entre la clavija 4 y el lado s
 
 ![image](https://user-images.githubusercontent.com/93734334/142962947-a5093c2f-983b-4e27-82a4-be1f904482b3.png)
 
+* Respuesta
+R1, R2, R5, R9, R10, y R12 están en paralelo.
+R4, R6, R7, y R8 están en paralelo.
+R3 y R11 están en paralelo.
+
 * SECCIÓN 6–2 Voltaje en un circuito en paralelo
 
 5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
 
 ![image](https://user-images.githubusercontent.com/93734334/142963035-d6858046-b432-4122-ae2e-1507d6bfcda2.png)
+
+* Respuesta
+
+**Puesto que el voltaje en un circuito en paralelo es el mismo, Cada medidor lee 100V**
 
 7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
 interruptor?
