@@ -265,6 +265,11 @@ V1=15V, V2=15V, V3=0V, V4=0V
 9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
 
+Recordadno la LCK nos dice que las corrientes que entran a un nodo son iguales a las corrientes que salen del mismo por lo tanto:
+
+IE=250+300+800                                                                                                                                                                   
+**IE=1350mA**
+
 11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
 
 ![image](https://user-images.githubusercontent.com/93734334/142963151-f4f982e3-a607-4d4a-ae26-0fed083945ce.png)
