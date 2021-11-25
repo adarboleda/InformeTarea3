@@ -227,8 +227,9 @@ Si indica un problema, puesto que existe un corto entre la clavija 4 y el lado s
 ![image](https://user-images.githubusercontent.com/93734334/142962947-a5093c2f-983b-4e27-82a4-be1f904482b3.png)
 
 * Respuesta
-R1, R2, R5, R9, R10, y R12 están en paralelo.
-R4, R6, R7, y R8 están en paralelo.
+
+R1, R2, R5, R9, R10, y R12 están en paralelo.                                                                                                                                     
+R4, R6, R7, y R8 están en paralelo.                                                                                                                                               
 R3 y R11 están en paralelo.
 
 * SECCIÓN 6–2 Voltaje en un circuito en paralelo
@@ -245,6 +246,19 @@ R3 y R11 están en paralelo.
 interruptor?
 
 ![image](https://user-images.githubusercontent.com/93734334/142963091-e555c8fb-5d3e-4772-8e67-45231a4b138c.png)
+
+Puesto que el voltaje en un circuito en paralelo es el mismo se puede deducir el votaje solo observando
+
+* Respuesta
+
+**En la posicion A**                                                                                                                                                             
+V1=15V, V2=0V, V3=0V, V4=15V
+
+**En la posición B**                                                                                                                                                             
+V1=15V, V2=0V, V3=15V, V4=0V
+
+**En la posición C**                                                                                                                                                             
+V1=15V, V2=15V, V3=0V, V4=0V
 
 * SECCIÓN 6–3 Ley de las corrientes de Kirchhoff 
 
