@@ -274,6 +274,24 @@ IE=250+300+800
 
 ![image](https://user-images.githubusercontent.com/93734334/142963151-f4f982e3-a607-4d4a-ae26-0fed083945ce.png)
 
+IE=I1+I2+I3+I4                                                                                                                                                                   
+5.03=1+2.14+0.470+I4                                                                                                                                                             
+5.03=3.61+I4                                                                                                                                                                     
+I4=1.42
+
+Vs=I1 x R1                                                                                                                                                                       
+Vs=1x47                                                                                                                                                                           
+Vs=47V
+
+R2=47/2.14                                                                                                                                                                       
+**R2=22 ohmios**
+
+R3=47/0.470                                                                                                                                                                       
+**R3=100 ohmios**
+
+R4=47/1.42                                                                                                                                                                       
+**R4=33 ohmios**
+
 13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor
 de 220 Æ que forma parte de este circuito si la corriente total es de 100 mA?
 
