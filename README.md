@@ -12,7 +12,6 @@ Objetivo Específico
 * Resumir los capitulos tres y cuatro del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta manera se pueda comprender de una mejor manera los temas descritos.
 * Aplicar los conocimientos adquiridos de los temas de la ley de ohm, energia y potencia para la resolcuión de los ejercicos propuestos por el libro de Floyd.
 
-
 2. MARCO TEÓRICO 
 
 ![image](https://user-images.githubusercontent.com/93734334/142939898-f77d26e3-fba7-42f6-9ad6-c78e91fca859.png)
@@ -201,11 +200,17 @@ Existe un corto de A a B
 
 ![image](https://user-images.githubusercontent.com/93734334/142962219-864252d0-52da-48fc-84b2-e377a314de57.png)
 
+* Respuesta
+
+**Basandonos en la figura 5-93 se tiene como respuesta que los resultados de mediciones de resistencia mostrados en la tabla 5-1 son correctos.** 
+
 59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2.
 Asimismo, 13.6 kÆ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso?
 De ser así, identifíquelo
 
 ![image](https://user-images.githubusercontent.com/93734334/142962285-0dc9e3d3-834a-47d0-a34d-e73579105648.png)
+
+Si indica un problema, puesto que existe un corto entre la clavija 4 y el lado superior de la resistencia 11.
 
 * SECCIÓN 6–1 Resistores en paralelo
 
