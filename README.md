@@ -299,7 +299,8 @@ de 220 Æ que forma parte de este circuito si la corriente total es de 100 mA?
 
 
 5. CONCLUSIONES
-
+* Como conclusión, se tiene que la cantidad total de potencia presente en un circuito resistivo dispuesto en serie, es igual a la suma de potencias de cada resistor, también el voltaje siempre se mide con respecto a otro punto, Cabe recalcar que, en un circuito en paralelo, el voltaje es igual al voltaje de cada de las demás ramas en paralelo.
+* De igual manera se tiene que un nodo es cualquier punto o unión donde dos o más componentes están conectados, y la ley de Kirchoff menciona que la suma de las corrientes que entran a un nodo, es igual a la suma de las corrientes que salen del mismo nodo.
 
 6. BIBLIOGRAFÍA
 
