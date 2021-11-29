@@ -7,6 +7,8 @@ Objetivo General
 
 * Conocer sobre los circuitos en serie y circuitos en paralelo mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos"
 
+R_T=(R_1 R_2)/(R_1+R_2 )
+
 Objetivo Específico
 
 * Resumir los capitulos cinco y seis del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta forma se pueda comprender de una mejor manera los temas descritos.
