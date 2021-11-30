@@ -888,7 +888,7 @@ El resistor de 8.2 kΩ está abierto.
 
 ![image](https://user-images.githubusercontent.com/93733175/144022013-81b9f591-032f-4f44-9c75-11e2f045a7ca.png)
 
-Clavijas 1-2 
+**Clavijas 1-2** 
 
 Lectura correcta: R = 1.0 kΩ||3.3 kΩ = 767 Ω
 
@@ -896,7 +896,7 @@ R1 abierto: R = 3.3 kΩ
 
 R2 abierto: R = 1.0 kΩ
 
-Clavijas 3-4 
+**Clavijas 3-4**
 
 Lectura correcta: R = 270 Ω|| 390 Ω = 159.5 Ω
 
@@ -904,7 +904,7 @@ R3 abierto: R = 390 Ω
 
 R4 abierto: R = 270 Ω
 
-Clavijas 5-6 
+**Clavijas 5-6**
 
 Lectura correcta: R = 1.0 MΩ||1.8 MΩ||680 kΩ||510 kΩ = 201 kΩ
 
@@ -941,7 +941,7 @@ R1-4 = R1||R2||R3||R4||R11||R12 = **422 Ω**
 
 
 5. CONCLUSIONES
-* Como conclusión, se tiene que la cantidad total de potencia presente en un circuito resistivo dispuesto en serie, es igual a la suma de potencias de cada resistor, también el voltaje siempre se mide con respecto a otro punto, Cabe recalcar que, en un circuito en paralelo, el voltaje es igual al voltaje de cada de las demás ramas en paralelo.
+* Como conclusión, se tiene que la cantidad total de potencia presente en un circuito resistivo dispuesto en serie, es igual a la suma de potencias de cada resistor, también el voltaje siempre se mide con respecto a otro punto, cabe recalcar que, en un circuito en paralelo, el voltaje es igual al voltaje de cada de las demás ramas en paralelo.
 
 * De igual manera se tiene que un nodo es cualquier punto o unión donde dos o más componentes están conectados, y la ley de Kirchoff menciona que la suma de las corrientes que entran a un nodo, es igual a la suma de las corrientes que salen del mismo nodo.
 
