@@ -42,7 +42,7 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93733175/144017513-2215752d-92ba-4796-88cb-751e6b792148.png)
 
-![image](https://user-images.githubusercontent.com/93733175/144019496-3d8499fb-3a08-43b6-9349-e606bded8b51.png)
+![image](https://user-images.githubusercontent.com/93733175/144019686-6699eed2-655d-4d44-a536-ab5ce02e206f.png)
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -711,6 +711,231 @@ de 220 ohmios que forma parte de este circuito si la corriente total es de 100 m
 * Respuesta
 
 La corriente que pasa a travez de un resitor de 220 ohmios es de 11.4 mA
+
+* SECCIÓN 6–4 Resistencia total en paralelo
+
+15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
+
+a) 560 Ω y 1000 Ω
+
+![image](https://user-images.githubusercontent.com/93733175/144020054-4db7f5ed-6e8f-482f-b9af-7b261bb7b385.png)
+
+= (560 Ω) (1000 Ω) / 560 Ω + 1000 Ω
+
+**RT= 359 Ω**
+
+b) 47 Ω y 56 Ω
+
+= (47 Ω) (56 Ω) / 47 Ω + 56 Ω
+
+**RT= 25.6 Ω**
+
+![image](https://user-images.githubusercontent.com/93733175/144020153-41067736-f8dc-42db-b99c-98255bfd7633.png)
+
+c) 1.5 kΩ, 2.2 kΩ, 10 kΩ
+
+= 1/1.5 kΩ + 1/2.2 kΩ + 1/10 kΩ 
+
+= 1.22 kΩ
+
+= 1/1.22 kΩ
+
+= 0.819 kΩ
+
+**RT= 819 Ω**
+
+d) 1.0 MΩ, 470 kΩ, 1.0 kΩ, 2.7 MΩ
+
+= 1/1000 kΩ + 1/470 kΩ + 1/1.0 kΩ + 1/2700 kΩ
+
+= 1.0034 kΩ
+
+= 1/1.0034 kΩ
+
+= 0.996 kΩ
+
+**RT= 996 Ω**
+
+17. ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?
+
+1/RT= 1/6.8 kΩ x 12
+
+1/RT= 1.764 kΩ
+
+RT= 1/ 1.764 kΩ
+
+RT= 0.566 kΩ
+
+**RT= 566 Ω**
+
+19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
+
+21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+![image](https://user-images.githubusercontent.com/93733175/144020617-a6a646e5-af58-4897-a18d-de8f65a9e3a4.png)
+
+a) SW1 y SW2 abiertos
+
+**Respuesta = 510 kΩ**
+
+b) SW1 cerrado, SW2 abierto
+
+**Respuesta = 245 kΩ**
+
+c) SW1 abierto, SW2 cerrado
+
+**Respuesta = 510 kΩ**
+
+d) SW1 y SW2 cerrados
+
+**Respuesta = 193 kΩ**
+
+23. Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+
+![image](https://user-images.githubusercontent.com/93733175/144020788-edd3eb31-4bb8-4b4a-a0ca-e9eb7ad9e9c1.png)
+
+R1,2= R1 X R2/R1 + R2
+
+R1,2= 33 X 33/33 + 33 = 16.5Ω
+
+R(1,2),3= R1,2 X R3/R1,2 + R3 = 11Ω
+
+IT= VT/RT 
+
+IT= 110V/11Ω = **10 A**
+
+25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kΩ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
+
+![image](https://user-images.githubusercontent.com/93733175/144021061-b364391b-d14f-4d19-9016-2b9b0ef6b397.png)
+
+29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+
+![image](https://user-images.githubusercontent.com/93733175/144021119-dd3a8cc2-9698-46b6-b279-957db2837995.png)
+
+* SECCIÓN 6–6 Fuentes de corriente en paralelo
+
+31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
+
+![image](https://user-images.githubusercontent.com/93733175/144021251-b5cb0353-88c6-4451-87aa-db40e556c70b.png)
+
+33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
+
+![image](https://user-images.githubusercontent.com/93733175/144021322-482af2d6-76a9-4ca2-8faa-414f30f71038.png)
+
+35. Determine todos los valores de resistor en la figura 6-83. RT =773 Ω.
+
+![image](https://user-images.githubusercontent.com/93733175/144021362-7e3f9d45-1648-4858-8f0b-7579a70d7e0c.png)
+
+37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kΩ de escala completa entre la derivación para realizar la medición.
+
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A? 
+
+(b) ¿Cuánta corriente circula por el medidor?
+
+* SECCIÓN 6–8 Potencia en circuitos en paralelo
+
+39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+
+![image](https://user-images.githubusercontent.com/93733175/144021588-c4b68b3e-5e37-483c-a047-b16469025dc5.png)
+
+a) RT= (1.0)(2.2)/1.0+2.2 = 0.6875
+
+PT= IT^2RT= (10)^2(0.6875) = 68.75
+
+V= ITRT= (10)(0.6875) = 6.875
+
+P1= (6.875)^2/1.0 = 47.3
+
+P2= (6.875)^2/2.2 = 21.5
+
+PT= 47.3+21.5 = **68.8 µW**
+
+b) RT= 1/(1/1.0)+(1/2.2)+(1/3.3)+(1/6.8) = 0.5642
+
+PT= IT^2RT= (10)^2(0.5642) = 56.42
+
+V= ITRT= (10)(0.5642) = 5.642
+
+P1= (5.642)^2/1.0 = 31.83
+
+P2= (5.642)^2/2.2 = 14.46
+
+P3= (5.642)^2/3.3 = 9.64
+
+P4= (5.642)^2/6.8 = 4.68
+
+PT= 31.83 + 14.46 + 9.64 + 4.68 = **60.61 mW**
+
+41. Encuentre los valores de las cantidades no especificadas en la figura 6-84.
+
+![image](https://user-images.githubusercontent.com/93733175/144021786-7d4e1c44-31ba-4987-a53d-7a43ea327938.png)
+
+* SECCIÓN 6–10 Localización de fallas
+
+43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+
+
+45. ¿Qué está mal con el circuito de la figura 6-86?
+
+![image](https://user-images.githubusercontent.com/93733175/144021928-3215f34c-f997-4823-84dc-c6231d6ac7f5.png)
+
+**Respuesta**
+El resistor de 8.2 kΩ está abierto. 
+
+47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
+
+![image](https://user-images.githubusercontent.com/93733175/144022013-81b9f591-032f-4f44-9c75-11e2f045a7ca.png)
+
+Clavijas 1-2 
+
+Lectura correcta: R = 1.0 kΩ||3.3 kΩ = 767 Ω
+
+R1 abierto: R = 3.3 kΩ
+
+R2 abierto: R = 1.0 kΩ
+
+Clavijas 3-4 
+
+Lectura correcta: R = 270 Ω|| 390 Ω = 159.5 Ω
+
+R3 abierto: R = 390 Ω
+
+R4 abierto: R = 270 Ω
+
+Clavijas 5-6 
+
+Lectura correcta: R = 1.0 MΩ||1.8 MΩ||680 kΩ||510 kΩ = 201 kΩ
+
+R5 abierto: R = 1.8 MΩ ||680 kΩ||510 kΩ = 251 kΩ
+
+R6 abierto: R = 1.0 MΩ||680 kΩ||510 kΩ = 226 kΩ
+
+R7 abierto: R = 1.0 MΩ||1.8 MΩ||510 kΩ = 284 kΩ
+
+R8 abierto: R = 1.0 MΩ||1.8 MΩ||680 kΩ = 330 kΩ
+
+49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+
+![image](https://user-images.githubusercontent.com/93733175/144022193-3d808acd-72e2-4b8a-bce8-ec77ddf7114d.png)
+
+a) 1 y 2 
+
+R1-2 = (R1||R2||R3||R4||R11||R12) + (R5||R6||R7||R8||R9||R10) = **940 Ω**
+
+b) 2 y 3 
+
+R2-3 = R5||R6||R7||R8||R9||R10 = **518 Ω**
+
+c) 2 y 4 
+
+R2-4 = R5||R6||R7||R8||R9||R10 = **518 Ω**
+
+d) 1 y 4
+
+R1-4 = R1||R2||R3||R4||R11||R12 = **422 Ω**
+
 
 4. VIDEO
 
