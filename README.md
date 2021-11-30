@@ -34,6 +34,17 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93734334/142953559-e0299751-e373-4211-9d80-f80b4968bb12.png)
 
+![image](https://user-images.githubusercontent.com/93733175/144017158-aaf14abf-5d89-4d33-9bdd-d3df468eeeb5.png)
+
+![image](https://user-images.githubusercontent.com/93733175/144017268-620a38ef-4975-41dd-b28b-f8e4669655a6.png)
+
+![image](https://user-images.githubusercontent.com/93733175/144017368-33345ace-6a17-41d3-85c6-f8a2bf11826f.png)
+
+![image](https://user-images.githubusercontent.com/93733175/144017513-2215752d-92ba-4796-88cb-751e6b792148.png)
+
+![image](https://user-images.githubusercontent.com/93733175/144019496-3d8499fb-3a08-43b6-9349-e606bded8b51.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 * SECCIÓN 5-1 
