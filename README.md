@@ -770,6 +770,26 @@ RT= 0.566 kΩ
 
 19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
 
+RT1 = R/n
+
+RT1 = 470/5
+
+RT1 = 94 Ω
+
+RT2 = 100/10
+
+RT2 = 10 Ω
+
+RT3 = 100/2
+
+RT3 = 50 Ω
+
+RT = 1/ (1/94) + (1/10) + (1/50)
+
+RT = 2350/307
+
+**RT = 7.645 Ω**
+
 21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
 
 ![image](https://user-images.githubusercontent.com/93733175/144020617-a6a646e5-af58-4897-a18d-de8f65a9e3a4.png)
@@ -806,13 +826,63 @@ IT= 110V/11Ω = **10 A**
 
 25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kΩ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
 
+**Respuesta:**
+
+50 mA; Cuando un foco se funde, los demás focos permanecen encendidos.
+
 27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
 
 ![image](https://user-images.githubusercontent.com/93733175/144021061-b364391b-d14f-4d19-9016-2b9b0ef6b397.png)
 
+I1= I2 + I3
+
+I2 = 15V/68Ω
+
+I3 = 15V/R3
+
+I1 ≤ 0.5 A
+
+I2 + I3 ≤ 0.5 A
+
+15V/68Ω + 15V/R3 ≤ 0.5 A
+
+15V/R3 ≤ 0.5 A – 15V/68Ω
+
+15V/R3 ≤ 19V/68Ω
+
+R3/15V ≥ 68Ω/19V
+
+R3 ≥ 68Ω/19V (15V)
+
+**R3 ≥ 53.68 Ω**
+
 29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
 
 ![image](https://user-images.githubusercontent.com/93733175/144021119-dd3a8cc2-9698-46b6-b279-957db2837995.png)
+
+IT = 250 mA + 50mA
+
+**IT = 300 mA**
+
+R1 = VT/IR1
+
+R1 = 100 V/ 0.05 A
+
+**R1 = 2 kΩ**
+
+250mA = I2 + I3
+
+250mA = VT/R2 + VT/R3
+
+I3 = VT/R3
+
+I3 = 100V/1200Ω
+
+**I3 = 83.33 mA**
+
+250 mA – 83.33 mA = 100V/R2
+
+**R2 = 600 Ω**
 
 * SECCIÓN 6–6 Fuentes de corriente en paralelo
 
@@ -820,19 +890,59 @@ IT= 110V/11Ω = **10 A**
 
 ![image](https://user-images.githubusercontent.com/93733175/144021251-b5cb0353-88c6-4451-87aa-db40e556c70b.png)
 
+Posición A: 2.25 mA 
+Posición B: 4.75 mA 
+Posición C: 7 mA
+
 33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
 
 ![image](https://user-images.githubusercontent.com/93733175/144021322-482af2d6-76a9-4ca2-8faa-414f30f71038.png)
 
+a) I1 = 6.88 µA
+
+     I2 = 3.12 µA
+     
+b)  I1 = 5.25 mA
+
+     I2 = 2.39 mA
+     
+     I3 = 1.59 mA
+     
+     I4 = 772 µA
+ 
 35. Determine todos los valores de resistor en la figura 6-83. RT =773 Ω.
 
 ![image](https://user-images.githubusercontent.com/93733175/144021362-7e3f9d45-1648-4858-8f0b-7579a70d7e0c.png)
+
+R1 = 12.0047/3.64
+
+**R1 = 3.3 kΩ**
+
+R2 = 12.0047/6.67
+
+**R2 = 1.8 kΩ**
+
+R3 = 12.0047/2.14
+
+**R3 =5.6 kΩ**
+
+R4 = 12.0047/3.08
+
+**R4 = 3.9 kΩ**
 
 37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kΩ de escala completa entre la derivación para realizar la medición.
 
 (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A? 
 
+**Respuesta:**
+
+1 mΩ
+
 (b) ¿Cuánta corriente circula por el medidor?
+
+**Respuesta:**
+
+5 µA
 
 * SECCIÓN 6–8 Potencia en circuitos en paralelo
 
@@ -872,10 +982,27 @@ PT= 31.83 + 14.46 + 9.64 + 4.68 = **60.61 mW**
 
 ![image](https://user-images.githubusercontent.com/93733175/144021786-7d4e1c44-31ba-4987-a53d-7a43ea327938.png)
 
+**Respuesta:**
+
+P1= 1.25 W
+
+I2 = 75 mA
+
+I1 = 125 mA
+
+Vs = 10 V
+
+R1 = 80 Ω
+
+R2 = 133 Ω
+
 * SECCIÓN 6–10 Localización de fallas
 
 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
 
+**Repuesta:**
+
+682 mA, 3.41 A
 
 45. ¿Qué está mal con el circuito de la figura 6-86?
 
