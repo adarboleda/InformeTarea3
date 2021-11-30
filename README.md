@@ -892,8 +892,12 @@ I3 = 100V/1200Ω
 
 ![image](https://user-images.githubusercontent.com/93733175/144021251-b5cb0353-88c6-4451-87aa-db40e556c70b.png)
 
+**Respuestas:**
+
 Posición A: 2.25 mA 
+
 Posición B: 4.75 mA 
+
 Posición C: 7 mA
 
 33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
