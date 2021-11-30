@@ -900,15 +900,15 @@ Posición C: 7 mA
 
 a) I1 = 6.88 µA
 
-     I2 = 3.12 µA
+   I2 = 3.12 µA
      
-b)  I1 = 5.25 mA
+b) I1 = 5.25 mA
 
-     I2 = 2.39 mA
+   I2 = 2.39 mA
      
-     I3 = 1.59 mA
+   I3 = 1.59 mA
      
-     I4 = 772 µA
+   I4 = 772 µA
  
 35. Determine todos los valores de resistor en la figura 6-83. RT =773 Ω.
 
