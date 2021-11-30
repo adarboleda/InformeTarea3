@@ -1072,6 +1072,7 @@ R1-4 = R1||R2||R3||R4||R11||R12 = **422 Ω**
 
 4. VIDEO
 
+https://youtu.be/967ZfUdDjYE
 
 5. CONCLUSIONES
 * Como conclusión, se tiene que la cantidad total de potencia presente en un circuito resistivo dispuesto en serie, es igual a la suma de potencias de cada resistor, también el voltaje siempre se mide con respecto a otro punto, cabe recalcar que, en un circuito en paralelo, el voltaje es igual al voltaje de cada de las demás ramas en paralelo.
