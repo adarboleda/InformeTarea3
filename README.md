@@ -1080,7 +1080,7 @@ R1-4 = R1||R2||R3||R4||R11||R12 = **422 Ω**
 
 * Los resistores están en paralelo cuando sus dos terminales están conectados a los mismos nodos, como también comparten el mismo voltaje en sus terminales.
 
-* 
+* En un circuito paralelo la suma de las intensidades de rama es la intensidad total del circuito, coincide con la que sale de la pila, conocido como la LCK, también hay que resaltar que la resistencia total de un circuito en paralelo es la inversa de las resistencias. 
 
 6. BIBLIOGRAFÍA
 
