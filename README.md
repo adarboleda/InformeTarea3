@@ -695,7 +695,11 @@ R4=47/1.42
 **R4=33 ohmios**
 
 13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor
-de 220 Æ que forma parte de este circuito si la corriente total es de 100 mA?
+de 220 ohmios que forma parte de este circuito si la corriente total es de 100 mA?
+
+* Respuesta
+
+La corriente que pasa a travez de un resitor de 220 ohmios es de 11.4 mA
 
 4. VIDEO
 
