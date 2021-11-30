@@ -949,6 +949,9 @@ R1-4 = R1||R2||R3||R4||R11||R12 = **422 Ω**
 
 * La ley del voltaje de Kirchhoff sirve para hallar las caídas de voltaje en cada resistor del circuito o a su vez encontrar la fuente de voltaje total.
 
+* Los resistores están en paralelo cuando sus dos terminales están conectados a los mismos nodos, como también comparten el mismo voltaje en sus terminales.
+
+* 
 
 6. BIBLIOGRAFÍA
 
