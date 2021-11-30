@@ -694,7 +694,7 @@ R3=47/0.470
 R4=47/1.42                                                                                                                                                                       
 **R4=33 ohmios**
 
-13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor
+13. La resistencia total de un circuito en paralelo es de 25 ohmios. ¿Cuál es la corriente a través de un resistor
 de 220 ohmios que forma parte de este circuito si la corriente total es de 100 mA?
 
 * Respuesta
@@ -711,8 +711,7 @@ La corriente que pasa a travez de un resitor de 220 ohmios es de 11.4 mA
 
 * Un circuito se encuentra en serie cuando solo posee una trayectoria la corriente y por lo tanto la corriente en dicho circuito no puede variar, pero el voltaje si varia debido a la caída de voltaje que presenta al pasar por un resistor, es decir va disminuyendo en el transcurso de pasar a través de todos los resistores.
 
-•	La ley del voltaje de Kirchhoff sirve para hallar las caídas de voltaje en cada resistor del circuito o a su vez encontrar la fuente de voltaje total.
-
+* La ley del voltaje de Kirchhoff sirve para hallar las caídas de voltaje en cada resistor del circuito o a su vez encontrar la fuente de voltaje total.
 
 
 6. BIBLIOGRAFÍA
